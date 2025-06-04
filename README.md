@@ -2,7 +2,7 @@
 
 **Full Stack .NET Developer** | ASP.NET Core • React • SQL Server  
 📍 Penang, Malaysia  
-📧 alimomin661@gmail.com | [🔗 LinkedIn](https://www.linkedin.com/in/abdulali-momin)
+📧 alimomin661@gmail.com | [🔗 LinkedIn](https://www.linkedin.com/in/abdul-ali-momin-92bb57211/)
 
 ---
 
@@ -47,7 +47,7 @@ Currently, I'm working with **Intel (via Accenture & DAPL IT Services)** on migr
 I'm always open to collaborating on impactful open-source projects or discussing innovative ideas in tech.
 
 📩 **Email:** alimomin661@gmail.com  
-🔗 **LinkedIn:** [Abdul Ali Momin](https://www.linkedin.com/in/abdulali-momin)
+🔗 **LinkedIn:** [Abdul Ali Momin](https://www.linkedin.com/in/abdul-ali-momin-92bb57211/)
 
 ---
 
